@@ -1,8 +1,14 @@
 fn main() {
+    // 1
+    // 2
+    // 3
     for number in 1..4 {
         println!("{number}");
     }
     // 反转
+    // 3
+    // 2
+    // 1
     for number in (1..4).rev() {
         println!("{number}");
     }
